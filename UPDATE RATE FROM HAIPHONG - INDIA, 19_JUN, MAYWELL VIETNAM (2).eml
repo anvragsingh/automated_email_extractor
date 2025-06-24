@@ -1,0 +1,438 @@
+Received: by 2002:a05:6f02:29:b0:8b:3367:62ee with SMTP id 41csp56478rcj;
+        Wed, 18 Jun 2025 20:38:44 -0700 (PDT)
+Received: from mail-sor-f65.google.com (mail-sor-f65.google.com. [209.85.220.65])
+        by mx.google.com with SMTPS id 5614622812f47-40abac8a5bbsor51757b6e.9.2025.06.18.20.38.43
+        for <jctrans@stanzalogistics.com>
+        (Google Transport Security);
+        Wed, 18 Jun 2025 20:38:44 -0700 (PDT)
+From: "Mihan Maywell Vietnam" <mihan.maywell06@gmail.com>
+To: <mihan@maywell-logistics.vn>
+Subject: UPDATE RATE FROM HAIPHONG - INDIA, 19/JUN, MAYWELL VIETNAM
+Date: Thu, 19 Jun 2025 09:08:32 +0530
+Message-ID: <CAPHULwKJKs=KwUOi9msPtQqN9Uza1bBSEFDtWx_S2ST83_iKxg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01DBE134.E171C440"
+X-Mailer: Microsoft Outlook 16.0
+X-Google-Smtp-Source: AGHT+IGa2YywtHtZ0uqpcg6uOIE/+EIxz4E7jIrghTH947/Bgyv+I/pim718OvHHDy87FoqSEqGlMZ5yfCCy0CLmJPI=
+X-Received: by 2002:a05:6808:3447:b0:407:9d24:af06 with SMTP id 5614622812f47-40a7c26d167mr11306851b6e.33.1750304324195;
+        Wed, 18 Jun 2025 20:38:44 -0700 (PDT)
+X-Received: by 2002:a05:6820:2212:b0:610:d52d:6387 with SMTP id
+ 006d021491bc7-61110ebf31cmr10816788eaf.4.1750304323296; Wed, 18 Jun 2025
+ 20:38:43 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com header.s=20230601 header.b=QVBqPIEp;
+       spf=pass (google.com: domain of mihan.maywell06@gmail.com designates 209.85.220.65 as permitted sender) smtp.mailfrom=mihan.maywell06@gmail.com;
+       dmarc=pass (p=NONE sp=QUARANTINE dis=NONE) header.from=gmail.com;
+       dara=pass header.i=@stanzalogistics.com
+X-Forwarded-Encrypted: i=2; AJvYcCXc1TqcC58vOFH8/dk74fbhqxWDXDwG25i//Rv7J6AFForYV92Vb8iybZb3FwHtFq7Jkdl18r7G@stanzalogistics.com
+X-Forwarded-Encrypted: i=1; AJvYcCW2hUtS3teobfywbgM7uz5I5oGlhnkxBb0AkqgR9QNRgyEds8K4KKbOTe6Nx5PnrtFuRfEZtBue@stanzalogistics.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1750304323; x=1750909123;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=9hRCKDPR0eXJsD9CnBzC3Q/8IpJNYHWa+5UiXPoS32c=;
+        b=deB7bAfyBorhuWY+wT1Zb6VY6R8oPxnwGEon0dK8IWNfoYx0erHkzKo601CdF6haEG
+         Ck8FGGBpof2MOR+hUFMDlUd+ANoHWBRbnlFi2u5fQPUHi7Ovf/tl1sknHl9eoaMKtGn6
+         l5fJ3JWwtIV4fUoM9uXNgXgsxjvQ6CT/sxSXrgomyFot5kvCzUoN8W7Ez8oK1TuVnF/E
+         2DtuoCBUHbccB64O2UsdUg/od02ORrJR5DtOspS+oDHuKvFtp25+R0i7jZU8Bk0+41Js
+         VXkJTRXbsiHvx1URu7936F+w7Lho4GWseNd6c16dXK2qlMx6NrYyzSheqOuVEku4QJVi
+         k9Qg==
+X-Gm-Message-State: AOJu0YzEoHNRx4/uJCLsJm3qyy5QzvgVCEtzus+q8FH+S6RIGk00frYw
+	FLYpwWxn6dmAsjHZ74slT+WCf6D+Oqw4iqGo86ygTk4oeXxDpAYBpkhFN860S/Hp895erpm1ZCF
+	RF+qSMM15bHsoP57QzX0oI9OqrOM1v2Y=
+X-Gm-Gg: ASbGnctBY1hzDE3rNBD7NKE+OyVRs5jFsNP7S3lrJFIxgjB+fVgMcDfVFEAbUaXw5J1
+	XcSXNTQcOKKIsM5+boj8M4/Z0FTScy7YTHrSSk2fHSBB8wMERQw4ERAQtM9Me0267TMO7K81cwj
+	T6kKI27Aj2g5sq+KS1A73RbX2up/Dn7Dx2EJVeyhI4F2g=
+X-Gm-Features: Ac12FXwTkPMtqVROspD3EXJW7zFi8TyypdEVgM3BXOCKbnvQmoCOmn0EIWVJlbY
+Thread-Index: AQHDRZYCWkaD4Qi9ee5bFpnPCfN3Hw==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_001F_01DBE134.E171C440
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Dear Sirs/ Madams,
+
+Good day
+
+Today is 19/Jun
+
+I am Mihan from Maywell Logs, We are focusing on India market with very 
+competitive rate and available spaces
+
+
+
+
+No	POL	POD	20DC	40HC	Note1	Haiphong	Kolkata	1000	1300	ETD 
+29/Jun, via RCL, Booking on hand2	Haiphong	Kolkata	920 
+ETD 26/Jun via cosco3	Hochiminh	Chennai/ 
+Bangalore	570	700	Direct vessel, ETD 24/Jun, via EMC, OOCL. Booking on hand4	Hochiminh	Nhava/ICD	1050	1450	ETD 
+24/Jun, direct vessel, via CMA, Booking on hand5	Hochiminh	Nhava/ICD	1180	1400	ETD 
+30/Jun, direct vessel via IALLooking forward to hearing from you soon.
+---
+
+Tks n brgds/ HANG
+
+MIHAN (Mrs.)
+
+Sales Manager
+
+MAYWELL VIETNAM CO., LTD
+
+4th Floor – Han Viet Tower, 203 Minh Khai, Hai Ba Trung, Hanoi
+
+Mob/ WhatsApp/ Wechat/Zalo : +84 9 1509 1995
+
+Email: mihan@maywell-logistics.vn <mailto:mihan@maywell-logistics.vn>
+
+Website: https://maywell-logistics.vn/
+
+WCA ID: 146204 // JC Trans ID: 156261
+
+
+------=_NextPart_000_001F_01DBE134.E171C440
+Content-Type: text/html;
+	boundary="0000000000007063ca0637e47bc2";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><p style=3D"font-family:&quot;Times New =
+Roman&quot;;margin:0cm;line-height:16.5pt;color:rgb(33,33,33)"><span =
+lang=3D"VI" style=3D"font-family:Arial,sans-serif;color:black">Dear =
+Sirs/ Madams,</span></p><p style=3D"font-family:&quot;Times New =
+Roman&quot;;margin:0cm;line-height:16.5pt;color:rgb(33,33,33)"><span =
+style=3D"font-family:Arial,sans-serif;color:black">Good =
+day=C2=A0</span></p><p style=3D"font-family:&quot;Times New =
+Roman&quot;;margin:0cm;line-height:16.5pt;color:rgb(33,33,33)"><span =
+style=3D"font-family:Arial,sans-serif;color:black">Today is =
+19/Jun</span></p><p style=3D"font-family:&quot;Times New =
+Roman&quot;;margin:0cm;line-height:16.5pt;color:rgb(33,33,33)"><span =
+style=3D"font-family:Arial,sans-serif">I am Mihan from Maywell Logs, We =
+are focusing on India market with very competitive rate and available =
+spaces</span></p><p style=3D"font-family:&quot;Times New =
+Roman&quot;;margin:0cm;line-height:16.5pt;color:rgb(33,33,33)"><span =
+style=3D"font-family:Arial,sans-serif"><br></span></p><table =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"762" =
+style=3D"border-collapse:collapse;width:572pt"><colgroup><col =
+width=3D"67" style=3D"width:50pt"><col width=3D"77" =
+style=3D"width:58pt"><col width=3D"161" style=3D"width:121pt"><col =
+width=3D"53" style=3D"width:40pt"><col width=3D"41" =
+style=3D"width:31pt"><col width=3D"55" style=3D"width:41pt"><col =
+width=3D"308" style=3D"width:231pt"></colgroup><tbody><tr height=3D"20" =
+style=3D"height:15pt"><td height=3D"20" width=3D"67" =
+style=3D"height:15pt;width:50pt;font-weight:700;text-align:center;border:=
+0.5pt solid =
+windowtext;background:rgb(255,192,0);padding-top:1px;padding-right:1px;pa=
+dding-left:1px;color:black;font-size:11pt;font-family:Calibri,sans-serif;=
+vertical-align:bottom">No</td><td width=3D"77" =
+style=3D"border-left:none;width:58pt;font-weight:700;text-align:center;bo=
+rder-top:0.5pt solid windowtext;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background:rgb(255,192,0);padding-top:1px;padding-right:1px;pa=
+dding-left:1px;color:black;font-size:11pt;font-family:Calibri,sans-serif;=
+vertical-align:bottom">POL</td><td width=3D"161" =
+style=3D"border-left:none;width:121pt;font-weight:700;text-align:center;b=
+order-top:0.5pt solid windowtext;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background:rgb(255,192,0);padding-top:1px;padding-right:1px;pa=
+dding-left:1px;color:black;font-size:11pt;font-family:Calibri,sans-serif;=
+vertical-align:bottom">POD</td><td width=3D"53" =
+style=3D"border-left:none;width:40pt;font-weight:700;text-align:center;bo=
+rder-top:0.5pt solid windowtext;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background:rgb(255,192,0);padding-top:1px;padding-right:1px;pa=
+dding-left:1px;color:black;font-size:11pt;font-family:Calibri,sans-serif;=
+vertical-align:bottom">20DC</td><td width=3D"41" =
+style=3D"border-left:none;width:31pt;font-weight:700;text-align:center;bo=
+rder-top:0.5pt solid windowtext;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background:rgb(255,192,0);padding-top:1px;padding-right:1px;pa=
+dding-left:1px;color:black;font-size:11pt;font-family:Calibri,sans-serif;=
+vertical-align:bottom">40HC</td><td colspan=3D"2" width=3D"363" =
+style=3D"border-left:none;width:272pt;font-weight:700;text-align:center;b=
+order-top:0.5pt solid windowtext;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background:rgb(255,192,0);padding-top:1px;padding-right:1px;pa=
+dding-left:1px;color:black;font-size:11pt;font-family:Calibri,sans-serif;=
+vertical-align:bottom">Note</td></tr><tr height=3D"20" =
+style=3D"height:15pt"><td height=3D"20" width=3D"67" =
+style=3D"height:15pt;border-top:none;width:50pt;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid windowtext;border-left:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">1</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Haiphong</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Kolkata</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">1000</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">1300</td><td colspan=3D"2" style=3D"border-right:0.5pt solid =
+black;border-left:none;border-top:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">ETD 29/Jun, via RCL, Booking on hand</td></tr><tr height=3D"31" =
+style=3D"height:23pt"><td height=3D"31" width=3D"67" =
+style=3D"height:23pt;border-top:none;width:50pt;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid windowtext;border-left:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">2</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Haiphong</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Kolkata</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">920</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">=C2=A0</td><td colspan=3D"2" =
+style=3D"border-width:0.5pt;border-style:solid;border-color:windowtext =
+black windowtext =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">ETD 26/Jun via cosco</td></tr><tr height=3D"21" =
+style=3D"height:16pt"><td height=3D"21" width=3D"67" =
+style=3D"height:16pt;border-top:none;width:50pt;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid windowtext;border-left:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">3</td><td width=3D"77" =
+style=3D"border-top:none;border-left:none;width:58pt;border-right:0.5pt =
+solid windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Hochiminh</td><td width=3D"161" =
+style=3D"border-top:none;border-left:none;width:121pt;border-right:0.5pt =
+solid windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Chennai/ Bangalore</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">570</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;padding-top:1px;padding-right:1px;padding-left:1px;color:black=
+;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bottom">700=
+</td><td colspan=3D"2" style=3D"border-right:0.5pt solid =
+black;border-left:none;border-top:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;padding-top:1px;padding-right:1px;padding-left:1px;color:black=
+;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bottom">Dir=
+ect vessel, ETD 24/Jun, via EMC, OOCL. Booking on hand</td></tr><tr =
+height=3D"28" style=3D"height:21pt"><td height=3D"28" width=3D"67" =
+style=3D"height:21pt;border-top:none;width:50pt;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid windowtext;border-left:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">4</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Hochiminh</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Nhava/ICD</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">1050</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">1450</td><td colspan=3D"2" =
+style=3D"border-left:none;border-top:0.5pt solid =
+windowtext;border-right:0.5pt solid windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">ETD 24/Jun, direct vessel, via CMA, Booking on hand</td></tr><tr =
+height=3D"21" style=3D"height:16pt"><td height=3D"21" width=3D"67" =
+style=3D"height:16pt;border-top:none;width:50pt;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid windowtext;border-left:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">5</td><td width=3D"77" =
+style=3D"border-top:none;border-left:none;width:58pt;border-right:0.5pt =
+solid windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Hochiminh</td><td width=3D"161" =
+style=3D"border-top:none;border-left:none;width:121pt;border-right:0.5pt =
+solid windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">Nhava/ICD</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;background-image:initial;background-position:initial;backgroun=
+d-size:initial;background-repeat:initial;background-origin:initial;backgr=
+ound-clip:initial;padding-top:1px;padding-right:1px;padding-left:1px;colo=
+r:black;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bott=
+om">1180</td><td =
+style=3D"border-top:none;border-left:none;border-right:0.5pt solid =
+windowtext;border-bottom:0.5pt solid =
+windowtext;padding-top:1px;padding-right:1px;padding-left:1px;color:black=
+;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bottom">140=
+0</td><td colspan=3D"2" style=3D"border-left:none;border-top:0.5pt solid =
+windowtext;border-right:0.5pt solid windowtext;border-bottom:0.5pt solid =
+windowtext;padding-top:1px;padding-right:1px;padding-left:1px;color:black=
+;font-size:11pt;font-family:Calibri,sans-serif;vertical-align:bottom">ETD=
+ 30/Jun, direct vessel via =
+IAL</td></tr></tbody></table></div><div><br></div><div><div><div><div><di=
+v><div dir=3D"ltr" class=3D"gmail_signature"><div =
+dir=3D"ltr"><div><div><div dir=3D"ltr" class=3D"gmail_signature"><div =
+dir=3D"ltr"><div><div><div><div><div><span =
+style=3D"color:rgb(33,33,33);font-family:Arial,sans-serif">Looking =
+forward to hearing from you =
+soon.</span></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div></div></div><div><div dir=3D"ltr" =
+class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div =
+dir=3D"ltr"><div style=3D"direction:ltr;line-height:normal;margin:0px =
+0cm;font-family:Calibri,sans-serif;font-size:11pt;color:rgb(0,123,22)">--=
+-</div><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+"><b>Tks n brgds/ =
+HANG=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0 =C2=A0</b>=C2=A0=C2=A0=C2=A0=C2=A0</span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+"><b>MIHAN (Mrs.)</b></span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+">Sales Manager</span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+"><b>MAYWELL VIETNAM CO., LTD</b></span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"letter-spacing:0.15pt;font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+">4th Floor =E2=80=93 Han Viet Tower, 203 Minh Khai, Hai Ba Trung, =
+Hanoi=C2=A0 =C2=A0</span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+">Mob/ WhatsApp/ Wechat/Zalo :=C2=A0+84 9 1509 1995</span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+">Email:<span>=C2=A0</span><a href=3D"mailto:mihan@maywell-logistics.vn" =
+title=3D"mailto:mihan@maywell-logistics.vn" =
+style=3D"color:rgb(0,120,215);margin-top:0px;margin-bottom:0px" =
+target=3D"_blank">mihan@maywell-logistics.vn</a></span></p><p =
+style=3D"color:rgb(0,0,0);direction:ltr;line-height:normal;margin:0cm;fon=
+t-family:Calibri,sans-serif;font-size:11pt"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(0,123,22)=
+">Website:<span>=C2=A0</span><a href=3D"https://maywell-logistics.vn/" =
+style=3D"color:rgb(0,120,215);margin-top:0px;margin-bottom:0px" =
+target=3D"_blank">https://maywell-logistics.vn/</a></span></p><p =
+style=3D"direction:ltr;line-height:normal;margin:0cm;font-family:Calibri,=
+sans-serif;font-size:11pt;color:rgb(33,33,33)"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,Arial,Helvetica,sans-serif;font-size:12pt;color:rgb(199,37,18=
+)"><b>WCA ID: 146204 // JC Trans ID: =
+156261</b></span></p></div></div></div></div>
+
+------=_NextPart_000_001F_01DBE134.E171C440--

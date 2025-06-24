@@ -1,0 +1,154 @@
+Received: by 2002:a05:6f02:29:b0:8b:3367:62ee with SMTP id 41csp123449rcj;
+        Thu, 19 Jun 2025 00:19:05 -0700 (PDT)
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 5b1f17b1804b1-4532d7902e7sor75902285e9.0.2025.06.19.00.19.04
+        for <jctrans@stanzalogistics.com>
+        (Google Transport Security);
+        Thu, 19 Jun 2025 00:19:04 -0700 (PDT)
+From: "HUYNNA / CIMC" <huynna@cimclogistics.vn>
+To: <anil@sgatslogistics.com>
+Subject: CIMC LOGISTICS VIETNAM // OFFER SEA FREIGHT // VIETNAM - INDIA // JUNE, 2025
+Date: Thu, 19 Jun 2025 12:48:54 +0530
+Message-ID: <CAJE7bw+T0n6OjTUk09SgFz2cxauaH65057Osb6t6dNNO65u+RA@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01DBE134.E17FCE00"
+X-Mailer: Microsoft Outlook 16.0
+X-Google-Smtp-Source: AGHT+IEHILibtNzWHtL5wOzD/K3Ez6CIwqYBrhN82odiMca2aZXDosWbfgvN1Cs2+tsoB8zWSrzJyxvC/aOoMIDwij0=
+X-Received: by 2002:a05:600c:8b26:b0:43d:878c:7c40 with SMTP id 5b1f17b1804b1-4533ca6635amr213630425e9.10.1750317545217;
+        Thu, 19 Jun 2025 00:19:05 -0700 (PDT)
+X-Received: by 2002:a05:600c:6208:b0:453:6ca:16b1 with SMTP id
+ 5b1f17b1804b1-4533cac2cdfmr165531505e9.26.1750317544451; Thu, 19 Jun 2025
+ 00:19:04 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@cimclogistics-vn.20230601.gappssmtp.com header.s=20230601 header.b=jLQ6yZU6;
+       spf=pass (google.com: domain of huynna@cimclogistics.vn designates 209.85.220.41 as permitted sender) smtp.mailfrom=huynna@cimclogistics.vn;
+       dara=pass header.i=@stanzalogistics.com
+X-Forwarded-Encrypted: i=2; AJvYcCUatMK5IT9WzziKJah3NkBhjVknN+KYYEPCwFXFk4o422bVXFrFLotfTkf9iFIQRrowbKaeh3aw@stanzalogistics.com
+X-Forwarded-Encrypted: i=1; AJvYcCUMZQJsV6ODeC+WsWBgk89SViFXsMMNTazsXH0BmW7x3mCDpKslTEjH/QVZL0ssAhzDDkCE8Lw1@stanzalogistics.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1750317544; x=1750922344;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=PomHQHsQKSUIlv2kx0bYMKo8vFGZQ2T7YL2eUBLZRI8=;
+        b=LwyZ2Qmvon4FDdPesQRX/JJVGAYKXTNxaRSvFsGtmkcdwErR8HQHQQp1YOOwY7+FBs
+         HeQblH25UV0RaE+O4hayw/Ia8csHA4j9WTcGLnt+Cha8Xdb+DfbksAiDO25yfUpCM8ZM
+         rPkJZQX+JehFC15STiJxZGXH2f71R7C0ToBbFjW1mbjhVRl6hPoF7Lbr+vR2siuQjmCi
+         m0OHzDp7w9iaXKZ9/o4P/ubp289G1zvDOH3q1V22dABpVM6L5j6tEvolE8ARS6Mqg/fP
+         0ehCi2BQaPuAXGAs4pFX8EF782+ql1o+yrsedyJc2jBZ8vnSqhz1eFGD1EDeLWhATHyG
+         hMoQ==
+X-Gm-Message-State: AOJu0Yz5YGAKRqzq6ZRT4JhEVpDETQPQ2ewFLCI3Lga5StXnBFIliWus
+	UaIaSpaB5H7XDP1MWN9zVY5ASgQGTliOIPulT0oHNPQKmgCUr+ysKvwdDKztbHUGDurZo7ryMEM
+	gFl9Lb2XskXDWhyYX8gsCZlBu7H2zcGkA8yNdH95lng==
+X-Gm-Gg: ASbGncvIezRWJ1H7dtqj0MegD7NpcITz6nxOnqcOJNALeIs4iGxG3T9+P3j30XT1E4m
+	4Q53GK0mwJeL4oiR84ZEIazUU7GjfoNCp7Wk3C2Xk1eMxIcNvwP6lVrosPFelJ7nNqBcyQHKvQf
+	Qee4a6QSM/ppGIgGrkV278YhSs0eEQItSNF0bARLTEQQ==
+X-Gm-Features: Ac12FXwnasQOgzNfNHEG8zAq7mG7a43KBtWS1sJ_6D7BmEYZcwd5OokpkSMmzpk
+Thread-Index: AQHOfb18bJgeRmsBJ6sovsDkDXZ5VQ==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0034_01DBE134.E17FCE00
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Dears,
+
+Good day to you,
+I hope this email finds you well.
+
+This is Huynna from CIMC Logistics Vietnam - a JCTrans member.
+I want to connect with you to offer our best sea freight from Vietnam to 
+India, please consider then support me if you have any plans.
+
+
+I'm so pleased to offer rates as below:
+
+HPH - MUNDRA
+Carrier: IAL
+ETD: 23.Jun & 29.Jun
+
+Freight charge is $1550/40HC for 14 days free time at destination,
+$1750/40HC for 21 days free time at destination.
+
+Also, if you need anything else, don't hesitate to contact me.
+I'm looking forward to our cooperation in the future!
+
+-- 
+
+Thanks & B.rgds,
+
+
+Huynna Nguyen (Ms. Huyen)
+Senior Sales Executive
+
+CIMC FREIGHT LOGISTICS (VIETNAM) JSC
+
+4th Floor, Fafim A Building, No. 19 Nguyen Trai Street, Khuong Trung Ward,
+Thanh Xuan District, Hanoi City.
+
+Tel: +84 24.8585.8399
+
+HP/Zalo/Whatsapp: +84 392.866.293
+
+Email: Huynna@cimclogistics.vn <mailto:Huynna@cimclogistics.vn>
+
+Group mail: sales@cimclogistics.vn <mailto:sales@cimclogistics.vn>
+
+------=_NextPart_000_0034_01DBE134.E17FCE00
+Content-Type: text/html;
+	boundary="0000000000007b49220637e78fed";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><font face=3D"times new roman, =
+serif">Dears,=C2=A0<br><br>Good day to you,=C2=A0<br>I hope this email =
+finds you well.=C2=A0<br><br>This is Huynna from CIMC Logistics Vietnam =
+- a JCTrans member.=C2=A0=C2=A0<br>I want to connect with you to offer =
+our best sea freight from Vietnam to=C2=A0India, please consider then =
+support me if you have any plans.=C2=A0<br><br></font></div><div><font =
+face=3D"times new roman, serif">I&#39;m so pleased to offer rates as =
+below:<br><br>HPH - MUNDRA=C2=A0<br></font><span =
+style=3D"font-family:&quot;times new roman&quot;,serif">Carrier: =
+IAL</span><br style=3D"font-family:&quot;times new =
+roman&quot;,serif"><span style=3D"font-family:&quot;times new =
+roman&quot;,serif">ETD: 23.Jun &amp; 29.Jun</span><br =
+style=3D"font-family:&quot;times new roman&quot;,serif"><br =
+style=3D"font-family:&quot;times new roman&quot;,serif"><span =
+style=3D"font-family:&quot;times new roman&quot;,serif">Freight charge =
+is $1550/40HC for 14 days free time at destination,<br>$1750/40HC for 21 =
+days free time at destination.=C2=A0</span><br =
+style=3D"font-family:&quot;times new roman&quot;,serif"><font =
+face=3D"times new roman, serif"><br>Also, if you need anything else, =
+don&#39;t hesitate to contact me.<br><span =
+style=3D"color:rgb(8,28,54);letter-spacing:0.2px;text-align:justify">I&#3=
+9;m looking forward to our cooperation in the =
+future!</span></font></div></div><div><br></div><span =
+class=3D"gmail_signature_prefix">-- </span><br><div dir=3D"ltr" =
+class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div =
+dir=3D"ltr"><div><font color=3D"#674ea7" face=3D"georgia, serif">Thanks =
+&amp; B.rgds,</font></div><div><font color=3D"#674ea7" face=3D"georgia, =
+serif"><br></font><div><font color=3D"#674ea7" face=3D"georgia, =
+serif"><b>Huynna Nguyen (Ms. Huyen)</b></font></div><div><font =
+color=3D"#674ea7" face=3D"georgia, serif">Senior Sales =
+Executive<br></font></div><div><font color=3D"#674ea7" face=3D"georgia, =
+serif"><b>CIMC FREIGHT LOGISTICS (VIETNAM) =
+JSC</b><br></font></div><div><font color=3D"#674ea7" face=3D"georgia, =
+serif"><span style=3D"text-indent:48px">4th Floor, Fafim A Building, No. =
+19 Nguyen Trai Street, Khuong Trung Ward,</span><br =
+style=3D"text-indent:48px"><span style=3D"text-indent:48px">Thanh Xuan =
+District, Hanoi City.</span><br></font></div><div><font =
+color=3D"#674ea7" face=3D"georgia, serif">Tel: +84 =
+24.8585.8399<br></font></div><div><font color=3D"#674ea7" =
+face=3D"georgia, serif">HP/Zalo/Whatsapp: +84 =
+392.866.293<br></font></div><div><font color=3D"#674ea7" =
+face=3D"georgia, serif">Email:=C2=A0<a =
+href=3D"mailto:Huynna@cimclogistics.vn" =
+target=3D"_blank">Huynna@cimclogistics.vn</a><br></font></div><div><font =
+color=3D"#674ea7" face=3D"georgia, serif">Group mail:=C2=A0<a =
+href=3D"mailto:sales@cimclogistics.vn" =
+target=3D"_blank">sales@cimclogistics.vn</a>=C2=A0</font></div></div></di=
+v></div></div>
+
+------=_NextPart_000_0034_01DBE134.E17FCE00--

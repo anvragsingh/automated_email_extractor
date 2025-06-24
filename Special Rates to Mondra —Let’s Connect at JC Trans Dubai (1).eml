@@ -1,0 +1,428 @@
+Received: from s.xtrwknhz.outbound-mail.sendgrid.net (s.xtrwknhz.outbound-mail.sendgrid.net. [167.89.18.14])
+        by mx.google.com with ESMTPS id 3f1490d57ef6-e841eaaa566si678291276.578.2025.06.18.23.02.12
+        for <jctrans@stanzalogistics.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Wed, 18 Jun 2025 23:02:12 -0700 (PDT)
+Received: by 2002:a05:6f02:29:b0:8b:3367:62ee with SMTP id 41csp96949rcj;
+        Wed, 18 Jun 2025 23:02:12 -0700 (PDT)
+Received: from MjE4NjM3OTI (unknown)
+	by geopod-ismtpd-14 (SG) with HTTP
+	id _0SCvaMeTFmYnsmuKdNElw
+	Thu, 19 Jun 2025 06:02:11.536 +0000 (UTC)
+Received: by recvd-7d86b8fd66-m7w9q with SMTP id recvd-7d86b8fd66-m7w9q-1-6853A7E3-52
+	2025-06-19 06:02:11.549002957 +0000 UTC m=+1257488.399426119
+Reply-To: <nour.magdy@nowlun.com>
+From: "Nour Magdy" <nour.magdy@nowlun.com>
+To: "Sarthak" <jctrans@stanzalogistics.com>
+Subject: =?UTF-8?Q?Special_Rates_to_Mondra_=E2=80=94Let=E2=80=99s_C?=
+	=?UTF-8?Q?onnect_at_JC_Trans_Dubai?=
+Date: Thu, 19 Jun 2025 11:32:11 +0530
+Message-ID: <_0SCvaMeTFmYnsmuKdNElw@geopod-ismtpd-14>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0028_01DBE134.E17A28B0"
+X-Mailer: Microsoft Outlook 16.0
+X-Google-Smtp-Source: AGHT+IG3L1TsK2XJGPVFxjozTfIkcz/uKNJ+WrsVvtX5iZZ5ATx8gAfX6wlXPkXv+HKrAD2jhmRd
+X-Received: by 2002:a05:690c:7447:b0:70d:f237:6a6a with SMTP id 00721157ae682-71175397ce0mr319248657b3.11.1750312932527;
+        Wed, 18 Jun 2025 23:02:12 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@nowlun.com header.s=s1 header.b=icv7YbgY;
+       spf=pass (google.com: domain of bounces+21863792-ec05-jctrans=stanzalogistics.com@em1957.nowlun.com designates 167.89.18.14 as permitted sender) smtp.mailfrom="bounces+21863792-ec05-jctrans=stanzalogistics.com@em1957.nowlun.com";
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=nowlun.com
+List-Unsubscribe:  <https://u21863792.ct.sendgrid.net/lu/unsubscribe?oc=u001.xohFk33dmn2jlOvNTcQeS5l3lFm9D9KIoorB9DUVuz0fZoBgnkwhfZUO1SM0K_1wsEwayEPGa3-X8TedOytRj98o1ie_q0j7fY-dQWqycIxWL7ih_U3ks6XhC65TtR9_aKZfTdUMMIcystZWCE0XI6MtHaC4qDeE6FiQKPx3-9SHzd00xhCzlj8I7O7OJ80yv7UzlmeL74-flLqqE4MtsKndXKpSuDD_TqPtslrnho4H8zyKIYjXr9DC4_2Wv2HnFtJAjiArUxJdCGnMBnLXS-pvhfB8W2qnGvK2v9Z_XOnuvp9MJIamHQ24m3WZzmjWDN5cOGx0RwhruLCXD3NCbmHuXUbuG6bR7-KFg7d2gL2_T_0sGRCtFsMEYCdG4MbA0k1iPty9mf38t_PqFtx266JPQgptGz-JcL1Q2S5ry8E3jgTA_18cx053b4jGdnZLshpvUEc2ZivNo2uShlzGeh0SY0L-A9WpIm7gqA18m89exqbU62iCgHpyaH7FK5_AzUI0a__MyOdlGvT5KR-QuI5XxKrybOa-_xXRpHYYEacEKO0Ntz6Gw6MiX39EKlpzBKzjly5jPZBGQv1B-xhZFKngcC4-peEwihIsGRS0C3XHmFSwQDuMpntzBw4Nf2Jo1aiJsHq4GWsjMRj_0tv2X7dkGglHGhJrFDfnU8BOwr-NXr9MGazVUm6QBGGp7w19dETjf-IBHCan3nVNhV5xYlTRszPqZ12aD05IqDEy0BZiRhjEh-IEZXUCA7GCe4EU0GNv0lQVxb18_nlrtsx0FtoCZ9PF8bxomStoYwX69dn3itb_nfNMWlkfClkkqG7fKO3iyCk-KRco0y-9Zu7oHU9l9itsN1QpM-RmYFraOVSbEMJanf9TFYZ5H6m9-5cFeKyHFsU7BZsOgA3F22Hk0tJ0AdxYco5-NYpgYoZ5KB1ft
+	a5njQ-Dmn3jTXoyewap9I6cZ4TzZrBs69ZXlvhYU5e0219gVcEhR8bd4HJ8SLty2ic7lY5WNnZ6EVDtijow5WS7iERo6TW4JR1ZNDWDjIFrtdqiR3FCVdAAn4yw6XO30azqMLzPSdDZjFZzMisqE_bXu5AIEtYHE1AQ4491g66rTO7rMsXfI0Nt8XvVKMgtc_cfQ3sQWp3qAvJxAX10wMhn3wURg-AiZl7x12XUWqWV9xt9J91WHpVWXkDSHqQ_ZZkOWACrx_dTg-xi7rj9BISf0bX4gdcVbxJ1f_79MORUXIVKXf81k7nUHb1Ltd1xG960yiG4HU64vKT1eJl4J3LoT1KducfuXfcd7AHiRDYOWmlo5BJSJqhytWDfjl__Q6Cslo8duh4vR8FIj_tYOPGEQ5FPZ8PPambUpUGVML_5MWeLLWb-Alw-eH-vtiPSSlc3wUYbBRLsh8pbzUy6wxM_q1WiJoEZJow8gFak5_p55lwyBjO7YXAHpHehEPhTtZWmRulxRKSADsPB4fgH02IjLM6Bk81V2QXVySu5P9znAj4-ar-EGaQeKY90rpUqRF6xtoeDakBRABibch2wr3wfsyH28pd6bF1TNRHf2Seb5v17qWxbNShyOHtFMffXa_WFqg4_RWefEQy43udbkUvBkNfJlia-AZSUKoopItkudmSxrF6TTeBpWS3wTaBEXHKdRNGBkfWcNXYxQRLhezLKrzU63bPaWyi645xZLeJYpd7JMicWlK_khFWB-pdF94y220iMlFh4HyGVjM3t7nspF86albr2EOjHMIUV-w>,<mailto:unsubscribe@em1957.nowlun.com?subject=21863792.4cSmRs1cJzPJOL3tIHI931mzod21Uz8JxhUbe8z6fqJoMDAwdTAwMEOJ0ClzQHYaZr9Puhy9bcZr5EG2zTWfy3FgVwqFlt_h5SaZrg_C56c0k-NIKWY8YIY2Ng2qYdTAsj8TbI
+	yQ4uUdbLImi6rWfY_63AM4kZSuCwib-l8rJssv8MW-nqYheQ==.Pho_EFmiMG7aoB3BJS1TczFKvt5IFi29FVrxSue9BmBoMDAwdTAwMF5q0kDZ2N9ynWDuIrY4VrwUTnGh-ayYVXIrTLMG_vm0XHmOd37VGa1HL2tTtWj38ziNGsIIYG7EBJqNiaxO5jgaKrrbGl-j-RBgqG7ww3E5Re-l52dRzT9gIQfTE-f99QEBONCRHMM1tWR8ev7Tk-DZgsQJfbiuj07KW7PTpnsXPk3pMxxhzyeRaK4tsQ1bSgWtyr7WvtBhLGF68onRSlgcKpi-Q5T4vxXWIUW78TLESCXE5q23gfJLX-DMd947iY500yUuywrshMzdz7FWI-phzCF1HcCDgpjFj8qZCpxigD7rUyf8ws9WbTbG9D_m88BON-bpMMqceOZeYNRPP64JPFhGhR1-hcjrm-ixuJoXaDt23LyunQIzNFgAIZOLnu3FtmRlHnyigNuqR5qCfEr4Kcibf89CaJN16XazlLUtbYUftoElFEBLU1Hjxa97grj6yBBOI9XN96tNVOtvV2zzX3lsgFU6UW4rb9x9Ih6PV4BnwxpIJrKEbWsX8KyXbkm7SvRVA-bCMALmri6gUAHM0zoqnDoJirK9iUe4GNJvDq7bP3hyrYQ5vskWaB6wqd5Fm0_bUtOAcY_ekuD9OXF4e-ssY8AOMcjQHjAtgkvf15p1MAhV2YTICzbdpXWl__xwJbmwDht12M5zZNFfZUELeY_845GK1_YFjeYiYn7xAGpA_fpwfKmLHQGICtqpbcGXz_ckO7MOF-Coza0d1AJO4VEolCYF6vSOwZH9wc-E7U5N9KcYQc5iTVCT2xhWeMffhavsS9ntVglFicQtkmj2sX2d_8TVe-EfFvdZvuk5xFoumg3PM1F6Ie4Lq_Ls9SAz18ZnZYwgzwicWC9UTivOLl7X-o1T16Dv2S-_6ihe8gxkIGrq9Y7lhWm4b2JUZ
+	IGidZCrghJuRE6-yFce9bdFKro3WSOxTu0yoDllzOCBh10EOLOIugprwTrfls-Es5t9wyPh0Ec9FWaW-tSp2fw=>
+Thread-Index: AQLAfITKtVtjDLL++wTuz0z50p7PFg==
+X-SG-EID: =?us-ascii?Q?u001=2E=2Ftnd=2F0uT4wKbV17tw0QTBBC6IrRrbhKwCKjSgL97L1E=2Fqn0vqYbRxnokE?=
+ =?us-ascii?Q?5q0tS2hEAvRv3XVlHt6j2bBCm+GtIb6d6=2FHIPX4?=
+ =?us-ascii?Q?XShlXxLCj0gZldhGgTTHsYdwGRUfVQI9KtnqG3K?=
+ =?us-ascii?Q?v26WW5DcHy9F6Ks42e3NUGos2vTNixxeis9gZgY?=
+ =?us-ascii?Q?pyidbSXiMgGVgLYt+DjPNe2b54yxgOHSf27LbLs?=
+ =?us-ascii?Q?D5ea81vkeoBYDyiZvhQoQCRf75KY7gRqmGo5inm?= =?us-ascii?Q?SNDD?=
+X-SG-ID: =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+Rs6OlRm=2FcaEsw=2FcuQFYvtovQxG2Eq1SU7B?=
+ =?us-ascii?Q?65rZKu5ZeoNq8Ti1S9MX+R5OO9Fx46CNcUPDqhs?=
+ =?us-ascii?Q?0Fs3JGaVNi838iqPApixsk9JqjXW44cfoXOINPS?=
+ =?us-ascii?Q?SBvQ4sqVgD4ZsuKLw+n+vESc+79atmL8OKIUreh?=
+ =?us-ascii?Q?XmR91eXYwvF+QaSSbNGK=2FiKJozKmDPEnkMhrriv?=
+ =?us-ascii?Q?hEiZCCuH+8eazdj0Clsa61wDrDHLX5k9017mQ93?=
+ =?us-ascii?Q?KHbKWnPH66dBwevdZCVlfYb5kBWAljSAn3JZhef?=
+ =?us-ascii?Q?4mzIqEt3uPtol4WsDFOPW8Zn21jIAnd4I=2FeAYps?=
+ =?us-ascii?Q?gXeNpjM1hS1ZiuZK1D3QqUK5aO5D2MWrkI9cd3d?=
+ =?us-ascii?Q?7vYnffAC+WM9JOZv6cYqLjo+YZ9VNDCIHCNOaH6?=
+ =?us-ascii?Q?AC79uisg8dIlsiP2O4ZKW6FD8bpAYVCrSlq3oA8?=
+ =?us-ascii?Q?f4V1nO4o+RVdbQ4T3jhATA14X8o3Rb94tHBXjMK?=
+ =?us-ascii?Q?BwMNdZc35bZb=2F3eNcScARyVsXBF4ZBiT49Pq7QO?=
+ =?us-ascii?Q?EAktZgdMLIGBmNSOYtrXecPi69vs=2Fwk+fH7hMR=2F?=
+ =?us-ascii?Q?NZ643=2FfrLVdhbOotcL8O+w=2F9c0pxwTNoZOfpJc5?=
+ =?us-ascii?Q?1QBR6Sc+9SphJWld6hnhBvMoZ8vKEX
+	mIILmgUGQ?=
+ =?us-ascii?Q?Glw91f=2F9y2C9JRbYjLr6GHIN2L2MMCYSVqXA8ng?=
+ =?us-ascii?Q?xdFrs=2FDJ6Pgcv1KUfe69cmeaga4zYpGWXVhXHqB?=
+ =?us-ascii?Q?cdl6apcZVQqd5JdZXl5cYXQlCLmpkWw=3D=3D?=
+X-Entity-ID: u001.7W0ZL/JUU6kcZg65y0p43Q==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0028_01DBE134.E17A28B0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+
+Dear Sarthak,
+
+I’m Nour Magdy, Overseas Sales Manager at Nowlun.com and an Elite Member of 
+JC Trans.
+
+We’re excited to be attending the upcoming JC Trans Conference in Dubai, and 
+I’d love the chance to connect and explore potential cooperation during the 
+event.
+
+Meanwhile, I wanted to share our latest competitive freight rates from Egypt 
+& Saudi Arabia to India, including Mundra.
+
+
+🚢 Sea Freight Rates to Mundra
+
+POL	 POD	 20' Dry	 40' Dry	 40' Reefer HC	 Transit TimeSokhna 
+Mundra	 $100	 $100	 $1,780	 15 DaysJeddah 
+Mundra	 $235	 $310	 $2,955	 17 Days🚛 Inland Trucking & Clearance
+
+Origin	 Port	 Trucking (40' Dry)	 Customs ClearanceBorg 
+Al Arab	 Sokhna	 $710	 $1416th 
+October	 Sokhna	 $444	 $141Riyadh 
+Jeddah	 $1,272	 $144Yanbu 
+Jeddah	 $675	 $144Let’s connect and explore how Nowlun can complement your operations with 
+reliable sea freight (FCL and bulk), customs clearance, and inland trucking 
+from Egypt & Saudi Arabia to India.
+
+Let me know if you’d like to receive our special rates or schedule a quick 
+meeting during the event.
+
+Looking forward to meeting you in Dubai!
+
+Best regards,
+Nour Magdy
+Overseas Sales Manager
+Nowlun – An Elite Member of JC Trans
+www.nowlun.com
+
+
+Unsubscribe From This List | Manage Email Preferences
+
+------=_NextPart_000_0028_01DBE134.E17A28B0
+Content-Type: text/html;
+	boundary="8a7ff717281338f50186451580d5921873e967dd7a2129cb4ea887f84ab6";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"en">
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+
+ =20
+  <title>Nowlun Freight Rates to India =E2=80=93 JC Trans Dubai</title>
+</head>
+<body style=3D"font-family: 'Segoe UI', Tahoma, Geneva, Verdana, =
+sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; color: =
+#333;">
+
+  <table style=3D"max-width: 720px; margin: auto; background-color: =
+#ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px =
+rgba(0,0,0,0.08);">
+    <tr>
+      <td style=3D"padding: 30px;">
+
+        <p style=3D"font-size: 16px;">Dear Sarthak,</p>
+
+        <p style=3D"font-size: 16px; line-height: 1.6;">
+          I=E2=80=99m <strong>Nour Magdy</strong>, Overseas Sales =
+Manager at=20
+          <a =
+href=3D"https://u21863792.ct.sendgrid.net/ls/click?upn=3Du001.vr1SJSZn8Kh=
+SRsqLg7LQIYUkw7OwoYgdmyiok8qnOe8-3Dh8iz_-2F0E-2Bhnb783SSiaMWdSktpCxCwIEXI=
+FGMQzb7Io8OGGqXueRrLLINid1xs4k0hD8MryScNqpy1KTJ7sgmSoWNUBG-2BXC0-2BiPflAl=
+dpYESiJjSHZ0IpD3LIIlnrV7ycbIpETbXbg4n-2FTI8X8wLX42EsOiqWO-2BVzXi6AC5A-2FC=
+cobKasR6piWoeO9xAGSA98I06zd0TvJrX9otJlGEjm-2Fj3Pfp4k75lMgekQaVcTKn1KEL0TH=
+pu-2BT-2BoJMj8jPosliWxqo9cMW49KzsAiqKFmxSjVRZLn78iAuO9k4pEUtUCFEw8j9zFFWx=
+PtlUGOeQBxJNgIjM-2BFGExMmzYcUSd5Xa8NOvyybJQ78-2BP51ey9a6JdDMEmFSxKEMFwXSx=
+a0MdKl5oh-2FwAGyeeOQgws6mItteORPA0Wk8J-2B9cmq3H5nRU3KZqHD1arI-2F6x65denpe=
+V0nx-2Byb9aeDHWvKT6J5h4PehQJfavzKpWBAtd67omwJds0iuzGVGCWyLlcYeQCeYHm4LXSS=
+kn5vsBPSRg-2Bm86ZlUIyrzUwMz5OhGmSCe9P7kG3BqRQOqySpLHKzS-2FZUY1MaZ0oJX6dR8=
+7BRN8oEyyUrZHbl8B-2F1pKcqL-2FB90bAeMOUdTAeK7e4lFKPSVpJs-2FH0alIIP4yqsqvCy=
+kUZhsW1mwLPc4t-2FLEhHXKgDUVdDGmGB-2BpbgEhiPIChVhUNv6XTKQTINNphmM8HNaMM-2B=
+nipvtXtieNby-2BTAO9s7f5dbAtp2V2bMMzQ9uu8qxWst-2BRhvc73SbLspvH5LvZZPel5Z6F=
+x9DPbtL7laIOil5tGMrhzmA9x-2Fy7EpqljhCubeqr9luFRdI6aM9LGwDe-2BRUeITev88he4=
+odmwZ4GEvZsyeWWsc7kqrlHxyLxgb8x2dFV0MMn-2BWn85f5C-2FvrRYmy8ZtCs8CvnsSHMns=
+VxE-2F8xEhOyw1OBVDvqEPlK8-2Fy2nPzvh-2B5uGXuWNP0yjsdjmd2KrJQJI71zSBOCsXZtv=
+60RQkZxxVujOMZTMN8t5NFVYmDfKwd1Ts9z" target=3D"_blank" =
+style=3D"color:#007BFF; text-decoration: none;">Nowlun.com</a> and an=20
+          <strong>Elite Member of JC Trans</strong>.
+        </p>
+
+        <p style=3D"font-size: 16px; line-height: 1.6;">
+          We=E2=80=99re excited to be attending the upcoming=20
+          <strong>JC Trans Conference in Dubai</strong>, and I=E2=80=99d =
+love the chance to connect and explore potential cooperation during the =
+event.
+        </p>
+
+        <p style=3D"font-size: 16px; line-height: 1.6;">
+          Meanwhile, I wanted to share our latest <strong>competitive =
+freight rates</strong> from Egypt & Saudi Arabia to India, including =
+<strong>Mundra</strong>.
+        </p>
+
+        <h2 style=3D"color: #555; font-size: 20px; margin-top: =
+30px;">=F0=9F=9A=A2 Sea Freight Rates to Mundra</h2>
+        <table style=3D"width: 100%; border-collapse: collapse; =
+margin-top: 10px; border: 1px solid #ccc;">
+          <thead style=3D"background-color: #e0e0e0; color: #333;">
+            <tr>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">POL</th>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">POD</th>
+              <th style=3D"padding: 10px; border: 1px solid #ccc;">20' =
+Dry</th>
+              <th style=3D"padding: 10px; border: 1px solid #ccc;">40' =
+Dry</th>
+              <th style=3D"padding: 10px; border: 1px solid #ccc;">40' =
+Reefer HC</th>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">Transit Time</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style=3D"background-color: #f9f9f9;">
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Sokhna</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Mundra</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$100</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$100</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$1,780</td>
+              <td style=3D"padding: 10px; border: 1px solid #ccc;">15 =
+Days</td>
+            </tr>
+            <tr>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Jeddah</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Mundra</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$235</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$310</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$2,955</td>
+              <td style=3D"padding: 10px; border: 1px solid #ccc;">17 =
+Days</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h2 style=3D"color: #555; font-size: 20px; margin-top: =
+40px;">=F0=9F=9A=9B Inland Trucking & Clearance</h2>
+        <table style=3D"width: 100%; border-collapse: collapse; =
+margin-top: 10px; border: 1px solid #ccc;">
+          <thead style=3D"background-color: #e0e0e0; color: #333;">
+            <tr>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">Origin</th>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">Port</th>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">Trucking (40' Dry)</th>
+              <th style=3D"padding: 10px; border: 1px solid =
+#ccc;">Customs Clearance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style=3D"background-color: #f9f9f9;">
+              <td style=3D"padding: 10px; border: 1px solid #ccc;">Borg =
+Al Arab</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Sokhna</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$710</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$141</td>
+            </tr>
+            <tr>
+              <td style=3D"padding: 10px; border: 1px solid #ccc;">6th =
+October</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Sokhna</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$444</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$141</td>
+            </tr>
+            <tr style=3D"background-color: #f9f9f9;">
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Riyadh</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Jeddah</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$1,272</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$144</td>
+            </tr>
+            <tr>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Yanbu</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">Jeddah</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$675</td>
+              <td style=3D"padding: 10px; border: 1px solid =
+#ccc;">$144</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <p style=3D"font-size: 16px; margin-top: 30px;">
+          Let=E2=80=99s connect and explore how <strong>Nowlun</strong> =
+can complement your operations with reliable sea freight (FCL and bulk), =
+customs clearance, and inland trucking from Egypt & Saudi Arabia to =
+India.
+        </p>
+
+        <p style=3D"font-size: 16px;">
+          Let me know if you=E2=80=99d like to receive our special rates =
+or schedule a quick meeting during the event.
+        </p>
+
+        <p style=3D"margin-top: 30px; font-size: 16px;">
+          Looking forward to meeting you in Dubai!
+        </p>
+
+        <p style=3D"margin-top: 20px; font-size: 16px;">
+          Best regards,<br>
+          <strong>Nour Magdy</strong><br>
+          Overseas Sales Manager<br>
+          <strong>Nowlun</strong> =E2=80=93 An Elite Member of JC =
+Trans<br>
+          <a =
+href=3D"https://u21863792.ct.sendgrid.net/ls/click?upn=3Du001.vr1SJSZn8Kh=
+SRsqLg7LQIYUkw7OwoYgdmyiok8qnOe8-3DxM5l_-2F0E-2Bhnb783SSiaMWdSktpCxCwIEXI=
+FGMQzb7Io8OGGqXueRrLLINid1xs4k0hD8MryScNqpy1KTJ7sgmSoWNUBG-2BXC0-2BiPflAl=
+dpYESiJjSHZ0IpD3LIIlnrV7ycbIpETbXbg4n-2FTI8X8wLX42EsOiqWO-2BVzXi6AC5A-2FC=
+cobKasR6piWoeO9xAGSA98I06zd0TvJrX9otJlGEjm-2Fj3Pfp4k75lMgekQaVcTKn1KEL0TH=
+pu-2BT-2BoJMj8jPosliWxqo9cMW49KzsAiqKFmxSjVRZLn78iAuO9k4pEUtUCFEw8j9zFFWx=
+PtlUGOeQBxJNgIjM-2BFGExMmzYcUSd5Xa8NOvyybJQ78-2BP51ey9a6JdDMEmFSxKEMFwXSx=
+a0MdKl5oh-2FwAGyeeOQgws6mItteORPA0Wk8J-2B9cmq3H5nRU3KZqHD1arI-2F6x65denpe=
+V0nx-2Byb9aeDHWvKT6J5h4PehQJfavzKpWBAtd67omwJds0iuzGVGCWyLlcYeQCeYHm4LXSS=
+kn5vsBPSRg-2Bm86ZlUIyrzUwMz5OhGmSCe9P7kG3BqRQOqySpLHKzS-2FZUY1MaZ0oJX6dR8=
+7BRN8oEyyUrZHbl8B-2F1pKcqL-2FB90bAeMOUdTAeK7e4lFKPSVpJs-2FH0alIIP4yqsqvCy=
+kUZhsW1mwLPc4t-2FLEhHXKgDUVdDGmGB-2BpbgEhiPIChVhUNv6XTKQTINNphmM8HNaMM-2B=
+nipvtXtieNby-2BTAO9s7f5dbAtp2V2bMMzQ9uu8qxWst-2BRhvc73SbLspvH5LvZZPel5Z6F=
+x9DPbtL7laIOil5tGMrhzmA9x-2Fy7EpqljhCubeqr9luFRdI6aM9LGwDe-2BRUeITev88he4=
+kVzsoiqyG5vXe48JCwKH9T7CWkHwW1zfLMDj-2B0pqfVkOUfo1lsSdjWY5tSO73R3BOXS53w-=
+2B-2BB6L7XibbHF8-2Bs90CeIB6obCmwPcvKFzCHHCmiiQvSNhp9j80IfYZ2wWY6oG-2BI-2B=
+5uyYT1HhX0IsGYLbwCB2y0ct29aIkLM8GMv5W" target=3D"_blank" =
+style=3D"color:#007BFF; text-decoration: none;">www.nowlun.com</a>
+        </p>
+
+        <a =
+href=3D"https://u21863792.ct.sendgrid.net/ls/click?upn=3Du001.vr1SJSZn8Kh=
+SRsqLg7LQIdEPxpP54hkOQuKpokaHc70-3DWOul_-2F0E-2Bhnb783SSiaMWdSktpCxCwIEXI=
+FGMQzb7Io8OGGqXueRrLLINid1xs4k0hD8MryScNqpy1KTJ7sgmSoWNUBG-2BXC0-2BiPflAl=
+dpYESiJjSHZ0IpD3LIIlnrV7ycbIpETbXbg4n-2FTI8X8wLX42EsOiqWO-2BVzXi6AC5A-2FC=
+cobKasR6piWoeO9xAGSA98I06zd0TvJrX9otJlGEjm-2Fj3Pfp4k75lMgekQaVcTKn1KEL0TH=
+pu-2BT-2BoJMj8jPosliWxqo9cMW49KzsAiqKFmxSjVRZLn78iAuO9k4pEUtUCFEw8j9zFFWx=
+PtlUGOeQBxJNgIjM-2BFGExMmzYcUSd5Xa8NOvyybJQ78-2BP51ey9a6JdDMEmFSxKEMFwXSx=
+a0MdKl5oh-2FwAGyeeOQgws6mItteORPA0Wk8J-2B9cmq3H5nRU3KZqHD1arI-2F6x65denpe=
+V0nx-2Byb9aeDHWvKT6J5h4PehQJfavzKpWBAtd67omwJds0iuzGVGCWyLlcYeQCeYHm4LXSS=
+kn5vsBPSRg-2Bm86ZlUIyrzUwMz5OhGmSCe9P7kG3BqRQOqySpLHKzS-2FZUY1MaZ0oJX6dR8=
+7BRN8oEyyUrZHbl8B-2F1pKcqL-2FB90bAeMOUdTAeK7e4lFKPSVpJs-2FH0alIIP4yqsqvCy=
+kUZhsW1mwLPc4t-2FLEhHXKgDUVdDGmGB-2BpbgEhiPIChVhUNv6XTKQTINNphmM8HNaMM-2B=
+nipvtXtieNby-2BTAO9s7f5dbAtp2V2bMMzQ9uu8qxWst-2BRhvc73SbLspvH5LvZZPel5Z6F=
+x9DPbtL7laIOil5tGMrhzmA9x-2Fy7EpqljhCubeqr9luFRdI6aM9LGwDe-2BRUeITev88he4=
+kAD1xZfAc7P-2BniEBWxMhyFgyFD4mdvcAtGBV6072SrfGPKkyhAu6Q-2Fdr5MGvihEbw-2F2=
+Kz-2FQ5rs9seltIRA1tuAqElNSlzLYLH2QAKbMiNFn0dglPiCoqmbEmJ15bccewayQw1klrKK=
+hMei10mzNCMJbFJrT3-2FZbPzBHHzvAUXP6" target=3D"_blank">
+          <img =
+src=3D"http://cdn.mcauto-images-production.sendgrid.net/b7539fdcccd9e7b6/=
+37935380-53ec-46ab-b61a-128152c349c8/500x220.jpg"
+               alt=3D"Email Signature"
+               style=3D"max-width: 300px; height: auto; display: block; =
+margin-top: 20px;" />
+        </a>
+
+      </td>
+    </tr>
+  </table>
+
+<a =
+href=3D'https://u21863792.ct.sendgrid.net/asm/unsubscribe/?user_id=3D2186=
+3792&amp;data=3DQftpeF5ySbliApfJFUAN-WEVK71UBQ3vszVzqSOzZuJoMDAwdTAwMM8jw=
+CppAAoMo-i9h8kY4X2nH4-HvrizHOF8EtpYM03gWiQGseu-A0V0zSUwJdC_LJW19Eyfnh7len=
+KpbX1bbH70DwUCXWS0iUplIBx-sDaIN4sdH7zSxuFgy6kAnG9nOU3pPktZDu24eLqnhXd1epi=
+DNpikjRntWkGez5zE9kHVXdF4LrLTu2eMyAZKte_MA1ESCa_wnL97vU5kqekiKeTN0xtLyJSs=
+JxHafyQPnnpbj3h09C6ya06blisiXzjilCtdFgiJ6Jv95S3c5Yij8b-eox4POiSiMju6TwLWr=
+lS6kpPg3oPDTaUc6Z2WUcTNBWtN_ZS2IKFyTYOF2gB7oezTHw8ByW4C5b9EAPrsF42R5Az06X=
+9Rj2ce9uheIp3xNDJhnSxI6y3U6R3Uzl_GiCIJD_cEbp8e-rtsW9_qBFvipxXcQTkdUsK6KsT=
+-8CabLNxi0kNXQcCJbu3x0_Oh2GG1ytVXuXayVxH0uisHIMN8XutFVL9XrQoDeSqBSQQFw1z1=
+eKgK5kZjlnf6gml1zYm-8TyyUAMGO38yByNQ2gdpgNgDe4tagfvE_ebQ1JrU1SJrJ6pYyMCOA=
+hHh2KzJco-Z5giToBxO36m0x8NorlNqzY3t_5-s05gwfA6UF4A37Jf18aydrfmSlLUlCWeafB=
+USR1vwEV84OQODN-jJNWQ_yaH2qub1PP8kEhJ0tRcurn_j-cxFIsXjT_pd8DoFLVig1ImXAFn=
+f8RSqBwD9W3muqT_hAAWa5e_MK1j_TKkhHojoLDq2nIpv7ZfrlFdc4YinTBGkBcnxzvsgkL4k=
+SlWDrHIcDfsIDSw-LWlMK7wzOWN3a57CVxEiU-AZONMQYw4XlcvrhBakeyeNTXmPdUspxyetp=
+KjJRHrFzFDjsFY5TRHY_vyW1NEfYMjSa870YFQ7DUfuDeu41GFkspOQKthqC5zQfLO-aidjee=
+agcdB0O862p115HeLtSlmOKjCS-GcOSO7k0OGZ2XvcFfaNp9Scpmh61k25i9R-abFCayYUrWN=
+z-XdeAAq5qVogbTdimT_LXoNsHBuj4yZvu34-fGjoG9z_0p1izRHiBGG43i06s7gSfrdEYd3i=
+CxujDeALCeUb-iqBv699c90534ZizOlTPQ5Lt6N9FKVvtm7u1tgie0RKgZCotviJdXniCQwey=
+lI=3D'>Unsubscribe From This List</a> | <a =
+href=3D'https://u21863792.ct.sendgrid.net/asm/?user_id=3D21863792&amp;dat=
+a=3Dly5VVL7cgKP2IA8WVMwyeAhvCMhatznYKQhDd5BSF8FoMDAwdTAwMFLpUzteSsNayZYiT=
+kAW4EvzHAB2zPzw5gPo0Z2VIqmoEBQwbLpN9mWLSq0d8plb1RfpnNi4k91SwDNwa9Ejy_52Kc=
+2_cYkUr7xmphp2rOgQQQgf_3Iw5MvDjRG2Oc4mlTnIX_uoyOJAvn62I30nMv-x_svqOD2q1Ye=
+CaiRd7RT230aCy9Sthj-b4CoOSC4AhQf2g_1CFO1770LkZyBbkErdqihAyS-W_ViXctetyiXW=
+uUE5pcIPoTIn5HGVkzDALQRze9XkRoi5BwuwJzZCfCTwZxqB6JTwuaZKv5suUYlVtvgyuehNF=
+B0c4WA6pEXrEKs2VJJklN4JTcyiQObsfcWgSI8ejFQQ-BFpsvbXPGgDVjmxCxKWJ-sya-vOTs=
+eoA1SaVREseccDTYL7-Ns_7sk5o2GV_4f1l08kG_RkOoVoV1xB9b5tI7W35exFnLsjUOFJnlj=
+UE8Jq5wgKiPDjpq2QmA8cC4FOCvRQoMMDZgztGZZvxL4ob_TIXJ_UIGO80py14KGDmxLmYI-K=
+7kBN1qk0PEVHFPCn7d5QFk9bmIfklz8pstCBKfLEvQ-iQtdH3KX6tBSBwro0nLyx2ppXuH0DL=
+9gJRiv0xgofyoD588CK0rTiqSryOC4safWP74BsdhHROigIFd7fhqdDfSs_LdvopXJLKwPsqF=
+JcSIONhuSoAvvHTp1Nho9AdCfmbaPRLzYfF7VB4ZnCd-Y77a25Od0H0o4vh81e0leI5uBMN1O=
+mLOsoUKiE-eLtBxTev6NBNrZltAERIlN-7ewoPRJriS5jPu5Au8C0uoJTdKx3896Fks3UnEKf=
+9eT2jKQ3npCN6rnSXyH_5rff5Sn-LP0i5vbtRBcXxbC_bG8-05ULCRJJ3TtccIPmUaEUKeEEV=
+-rS7Oqxk63fEySa-qfKndO2QFnAIbnO8rWrMOtJWgJFzdXfEDdFY2AAJCb0StRqBNEBiBWDvG=
+s4KwIpLJTMVOZNKFrxVxKOiwuX4Vfia2SCJpTXD96imSvhxb_SoCfSnPC-4efyhxcCeNGLtq0=
+eZj3tReMfUwityIlEbcFiZxaPlGDBvNYv8UT5DxUeEV7FHXhRhSgVgh0x6XKilqrFe10x9XFe=
+-k38A8KfwREyJE8TKYVfTHFo-x9FN0VAgnYdYyzSmg=3D=3D'>Manage Email =
+Preferences</a><img =
+src=3D"https://u21863792.ct.sendgrid.net/wf/open?upn=3Du001.nDzRpuVoUg4Ck=
+A3EAUB81zDicq2rKD3LtEWWBvxDUkWG9hCErpONmmo2QpQqaFEHSTXslJnGtu13kl9J5Nrjet=
+6nmxL-2B8-2FTF0J0-2B-2F76foY8sBBl-2FxkFcfpfd-2F6nPhVpZUpoEIEglSf27Rbcg3Ci=
+oFxXQS8w3QzovNh-2FLJBcDPbzoYw7ZLAeIUgwQ0p1Uxc-2FFL1eVJIr8enNhV9dO9xDreaJA=
+-2BjeWOIY6J-2FqFznpkVvUVCN3nlg0UdIi5o5VcOJblAFGkVttHy4ltPUUj4YTsov6cYFelC=
+e2FRa2e0cnCpqEFSs2Rd-2BHb0gN-2BsmC7tD5HfKdUM2D4h7J8keXTSWwLv1r-2BNujEsKlP=
+sLLQzqi8YNMmDJiAx2CCImH5qgJxIO-2FbJectEifXJ944EM5VkAyYy1cvZVUQzu4k6WfN6a-=
+2BYD5ttl-2B4M5k-2FjMc3JnqCSSV0wnx7qjFvTRaeNlUufb6XbsVwX8gJr375YlmxxP7X8jw=
+lyBqkltfWCnWh2i8MTVe3nmm7uYZ1-2BnhrWeyR2IP1OIMMTGw9XLlmzeuuAUa9TMaj7iL7iG=
+NXymXKcFT93sYNWcNFlMRzq-2BpZon2C-2B1vYqzkExjqmLr4W90r9ueAKCMc9Vx0PfBFODs1=
+b-2BHo4Bf8ilIu0xATz3-2B-2BsGi6ifOsXcW98Tjva6dE9tzn2EdODp4Fd4YEv-2FLUUKI2P=
+LZP38njW90TGI4YjnZev6FVqQBT-2FBFD-2FliQbDVzBHMSzpz2psoUrAsghs5KTd7NGSUat4=
+B0YiIB3fpyYImgWOudNK2Dneyaug-2B9aGTPHEMcaFDgX8BO0TM8v2eRV-2BUONw7njGQwJvG=
+1zsIocwptWAjex2RHz6idmtkupbo5L-2BmF-2FoTCxyPTTwcWn5UXjx8Dr5SKTCD52U4ojFWP=
+sWU2gC1PWPBSW-2Bsg6Y03zlmitzx-2FE0amK4ZECXTl-2FWvs2h0ak6Y6JYUPxzOYHIJhIbb=
+yd-2BwUVmpLIoVeW2pUl0nMYym8KQSPHeITsUtzR53u4pmlNk1RKvZaFa" alt=3D"" =
+width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px =
+!important;width:1px !important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 =
+!important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/></body>
+</html>
+
+------=_NextPart_000_0028_01DBE134.E17A28B0--

@@ -1,0 +1,534 @@
+Received: by 2002:a05:6f02:29:b0:8b:3367:62ee with SMTP id 41csp113311rcj;
+        Wed, 18 Jun 2025 23:45:26 -0700 (PDT)
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id a640c23a62f3a-ae01625ed58sor211327666b.14.2025.06.18.23.45.26
+        for <jctrans@stanzalogistics.com>
+        (Google Transport Security);
+        Wed, 18 Jun 2025 23:45:26 -0700 (PDT)
+From: "Tarannum Shaikh" <air@dlplines.com>
+To: "Info" <info@dlplines.com>
+Cc: "Meghana Gokhale Delux Logistics DLP" <business1@dlplines.com>
+Subject: SPECIAL RATE FOR JEBEL ALI, SOHAR, COLOMBO, USAEC AND USAWC
+Date: Thu, 19 Jun 2025 12:15:14 +0530
+Message-ID: <CA+5vAnmysPzPg-bRPj1UesK=W-mnQy=n0qjgiL3Qt0fFctunKw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002C_01DBE134.E17CC0C0"
+X-Mailer: Microsoft Outlook 16.0
+X-Google-Smtp-Source: AGHT+IEoGxLAidcOGr/LUOLSREiS6iybqeHw2FFqcNT3HHxeAT56xukP/jOgGhjX33l+BRBjIukebcb3+dKgeIiFySk=
+X-Received: by 2002:a17:907:3d93:b0:adb:4143:4c8 with SMTP id a640c23a62f3a-adfad31e0ffmr1668576466b.8.1750315526302;
+        Wed, 18 Jun 2025 23:45:26 -0700 (PDT)
+X-Received: by 2002:a17:906:7309:b0:ad8:8689:2cc9 with SMTP id
+ a640c23a62f3a-adfad540eb7mr1949791066b.56.1750315525763; Wed, 18 Jun 2025
+ 23:45:25 -0700 (PDT)
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@dlplines-com.20230601.gappssmtp.com header.s=20230601 header.b=QKUu1vu0;
+       spf=pass (google.com: domain of air@dlplines.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=air@dlplines.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=dlplines.com;
+       dara=pass header.i=@stanzalogistics.com
+X-Forwarded-Encrypted: i=2; AJvYcCXFB9bMTnGpgXLRuODVfWsMty0FZUIWlRh5ThqROnm5lSmS1ZVbb8DYbIGUkoZVuT67LQRLmsxY@stanzalogistics.com
+X-Forwarded-Encrypted: i=1; AJvYcCX+RzWtjF+/449D0tZbnwC5+PNjWaGc6/JMVQ76VDzGAu34AQAlbYuBwrKI1Kx0io00p50ElRuK@stanzalogistics.com
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1750315526; x=1750920326;
+        h=cc:to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=dVSbYq9R6TvcP6US9r8HkzZTrsWrxn+6ElJWTmV88nE=;
+        b=kLcnDPA4Fj5ou/IzVNezCwB5d2BYme3voqUTcWaprRMBQQMtlA7nMnEZy0+munysK8
+         vxSj5jtqK5wXz8gPe8b6Oa1ddj0WA+CVPm0OzuaGLu42ywiUNSKA75ernDHyhejHi1YZ
+         bftRRXYrq7gh8uRw1Qj2wKKH9Q0Z66LlslZaLs2Up7OjRkjxqL/gFHWfCAu3/GC1vdtr
+         qj+auGS3hEe4OYbpMr/OZ8q/Q8P1aGXoLE1Uc6WLJz497cQhGfaKA64XQrEk3bG7jLFV
+         SKJ4x+zyGtWCyix/EW23fETcVRoTsbZVZIgYd/Po4ckeNXS0MfIhyVfJY1IiRcfZ0I/C
+         Cjfg==
+X-Gm-Message-State: AOJu0Yz5EFBJbWca76YgRdkIsJLCNwExdFxi2w4Jz9DEMo+fBJ62FuNH
+	lKZ0S8jBng/FR9T1BghRHLAe45wY64Tgn4FMPZZMp0wVkUXRgozBTwDEdXOoHjfr8d3I9MkP6Nj
+	XmhY0cXdF1KfRF0HRtbsVfUR+T3MtvCOzeFNdUS0bOQ==
+X-Gm-Gg: ASbGncu739TFg1yyR8SM68a+6D6dMZTvT4hfASRpUTLSZ/tWF/SZpAQNXlDv22f5rC+
+	kv1anvFgRDbH4TuzWLswyZMNj71sDoFg45DKbsWydikm0UfvKArsJxi8BdF5Yf/cnTqbZbkxzxi
+	uAFqsz0K0bVNPC3TcpaoEpQ5QdsVoc/Kq+JS1GYsG3fgNpor9uCZOJvoDI
+X-Gm-Features: Ac12FXyXJPxntl7g6wC6A6pGU5phtrVUXuerESsSircx88ZHlU5e7WbvF6d6RxA
+Thread-Index: AQGGTgUin2YpG+X9DQEzDH5l1+lndA==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_002C_01DBE134.E17CC0C0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Dear sir / Madam,
+
+
+
+Please find below our lowest rates for shipments to JEBEL ALI, SOHAR, 
+COLOMBO USAEC and USAWC:-
+
+
+
+
+Port of Loading
+
+Port of Discharge
+
+20’ GP
+
+40’ HC
+
+
+NHAVA SHEVA / Mundra
+
+New York  / Savannah  / Charleston / Norfork
+
+1950
+
+2175
+
+
+NHAVA SHEVA / Mundra
+
+Norfolk VIA Aliaga
+
+2170
+
+2450
+
+
+NHAVA SHEVA / Mundra
+
+LA - LB - Oakland - Tacoma
+
+3000
+
+3500
+
+
+         NHAVA SHEVA
+
+COLOMBO
+
+245
+
+225
+
+
+NHAVA SHEVA
+
+JEBEL ALI
+
+25
+
+100
+
+
+MUNDRA
+
+JEBEL ALI
+
+100
+
+195
+
+
+NHAVA SHEVA
+
+SOHAR
+
+450
+
+800
+
+
+
+
+We are also dealing with LCL and cross country also.
+
+
+
+We are accepting HAZ cargo from NSH
+
+
+
+Looking for your Support in the above booking
+
+Term : Prepaid
+Payment : Against BL
+
+Thanks & Regards
+
+  <https://ci3.googleusercontent.com/mail-sig/AIorK4y3Y92yf7axpUNRhlS84xXSWU9sc99ZNqmaHZon_ZGVuIod_sRJpukEaYHgWCpGB_eOQ9oqn8djCREQ>
+
+
+------=_NextPart_000_002C_01DBE134.E17CC0C0
+Content-Type: text/html;
+	boundary="0000000000002886e00637e71723";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><p class=3D"MsoNormal"><font =
+face=3D"verdana, sans-serif">Dear sir / =
+Madam,=C2=A0<u></u><u></u></font></p></div><div><font face=3D"verdana, =
+sans-serif"><br></font></div></div><div><font face=3D"verdana, =
+sans-serif">Please find below our lowest rates for shipments to JEBEL =
+ALI, SOHAR, COLOMBO USAEC and USAWC:-</font></div></div><div><p =
+class=3D"MsoNormal" =
+style=3D"background-image:initial;background-position:initial;background-=
+size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial"><font face=3D"verdana, sans-serif"><span =
+lang=3D"X-NONE" =
+style=3D"font-size:12pt;color:black">=C2=A0</span></font></p><div><table =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"788" =
+style=3D"width:591.2pt;background-image:initial;background-position:initi=
+al;background-size:initial;background-repeat:initial;background-origin:in=
+itial;background-clip:initial;border-collapse:collapse"><tbody><tr =
+style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><b><span lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif;color:black">Port =
+of Loading</span></b><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></p></td><td=
+ width=3D"222" style=3D"width:166.15pt;border-top:1pt solid =
+windowtext;border-right:1pt solid windowtext;border-bottom:1pt solid =
+windowtext;border-left:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><b><span lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">Port of =
+Discharge</span></b><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"174" style=3D"width:130.45pt;border-top:1pt solid =
+windowtext;border-right:1pt solid windowtext;border-bottom:1pt solid =
+windowtext;border-left:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><b><span lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">20=E2=80=99 =
+GP</span></b><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"183" style=3D"width:137.4pt;border-top:1pt solid =
+windowtext;border-right:1pt solid windowtext;border-bottom:1pt solid =
+windowtext;border-left:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><b><span lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">40=E2=80=99 =
+HC</span></b><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">NHAVA =
+SHEVA</span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">=C2=A0/ =
+Mundra</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">New York=C2=A0 / =
+Savannah=C2=A0 / Charleston / Norfork=C2=A0</span></font></p></td><td =
+style=3D"border-top:none;border-left:none;border-bottom:1pt solid =
+windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in 0.0001pt;text-align:center"><font =
+color=3D"#000000" face=3D"Verdana, sans-serif"><span =
+style=3D"font-size:16px">1950</span></font></p></td><td =
+style=3D"border-top:none;border-left:none;border-bottom:1pt solid =
+windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">2175</span></font=
+></p></td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif;background-image:ini=
+tial;background-position:initial;background-size:initial;background-repea=
+t:initial;background-origin:initial;background-clip:initial"></span><span=
+ lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">NHAVA =
+SHEVA</span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">=C2=A0/ =
+Mundra</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">Norfolk VIA =
+Aliaga=C2=A0=C2=A0</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">2170</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">2450</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span lang=3D"X-NONE" =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">NHAVA =
+SHEVA</span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">=C2=A0/ =
+Mundra</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">LA - LB - =
+Oakland - Tacoma</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in 0.0001pt;text-align:center"><font =
+color=3D"#000000" face=3D"Verdana, sans-serif"><span =
+style=3D"font-size:16px">3000</span></font></p></td><td =
+style=3D"border-top:none;border-left:none;border-bottom:1pt solid =
+windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">3500</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" style=3D"margin:0in 0in =
+0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><font =
+color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">=C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0NHAVA SHEVA</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">COLOMBO=C2=A0</sp=
+an><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">245</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif">225</span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">=C2=A0</span><spa=
+n =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">NHAVA =
+SHEVA</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">JEBEL =
+ALI</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">25</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">100</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">MUNDRA</span><spa=
+n =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">JEBEL =
+ALI</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">100</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">195</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr><tr style=3D"height:15pt"><td width=3D"210" =
+style=3D"width:157.2pt;border-right:1pt solid =
+windowtext;border-bottom:1pt solid windowtext;border-left:1pt solid =
+windowtext;border-top:none;padding:0.75pt 0.75pt 0in;height:15pt"><p =
+class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">NHAVA =
+SHEVA</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td width=3D"222" =
+style=3D"width:166.15pt;border-top:none;border-left:none;border-bottom:1p=
+t solid windowtext;border-right:1pt solid windowtext;padding:0.75pt =
+0.75pt 0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">SOHAR</span><span=
+ =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">450</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td><td style=3D"border-top:none;border-left:none;border-bottom:1pt =
+solid windowtext;border-right:1pt solid windowtext;padding:0.75pt 0.75pt =
+0in;height:15pt"><p class=3D"MsoNormal" align=3D"center" =
+style=3D"margin:0in 0in =
+0.0001pt;text-align:center;font-size:11pt;font-family:Calibri,sans-serif"=
+><font color=3D"#000000"><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span><span =
+style=3D"font-size:12pt;font-family:Verdana,sans-serif">800</span><span =
+style=3D"font-size:12pt;font-family:Arial,sans-serif"></span></font></p><=
+/td></tr></tbody></table><div><p class=3D"MsoNormal" =
+style=3D"background-image:initial;background-position:initial;background-=
+size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial"><font face=3D"verdana, sans-serif"><b><span =
+lang=3D"EN-IN" =
+style=3D"font-size:12pt;color:black;background:yellow"><br></span></b></f=
+ont></p><p class=3D"MsoNormal" =
+style=3D"background-image:initial;background-position:initial;background-=
+size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial"><font face=3D"verdana, sans-serif"><b><span =
+lang=3D"EN-IN" style=3D"font-size:12pt;color:black;background:yellow">We =
+are also dealing with LCL and cross country also.</span></b><span =
+style=3D"font-size:12pt"><u></u><u></u></span></font></p><p =
+class=3D"MsoNormal" =
+style=3D"background-image:initial;background-position:initial;background-=
+size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial"><span style=3D"font-size:12pt"><font face=3D"verdana, =
+sans-serif">=C2=A0<u></u><u></u></font></span></p><p class=3D"MsoNormal" =
+style=3D"background-image:initial;background-position:initial;background-=
+size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial"><font face=3D"verdana, sans-serif"><b><span =
+lang=3D"EN-IN" style=3D"font-size:12pt;color:black;background:yellow">We =
+are accepting HAZ cargo from NSH=C2=A0</span></b><span =
+style=3D"font-size:12pt"><u></u><u></u></span></font></p><p =
+class=3D"MsoNormal" =
+style=3D"background-image:initial;background-position:initial;background-=
+size:initial;background-repeat:initial;background-origin:initial;backgrou=
+nd-clip:initial"><span style=3D"font-size:10pt"><font face=3D"verdana, =
+sans-serif"><u></u>=C2=A0<u></u></font></span></p><div><font =
+face=3D"verdana, sans-serif">Looking for your Support in the above =
+booking</font></div><div><br></div></div><div><div><font =
+face=3D"verdana, sans-serif"><b>Term : =
+Prepaid=C2=A0</b></font></div><div><font face=3D"verdana, =
+sans-serif"><b>Payment : Against BL</b><div =
+style=3D"font-weight:bold"><br clear=3D"all"></div><div style=3D""><div =
+dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signature" =
+style=3D""><div dir=3D"ltr" style=3D"">Thanks &amp; Regards=C2=A0<div =
+style=3D"font-weight:bold"><br></div><div =
+style=3D"font-weight:bold"><img =
+src=3D"https://ci3.googleusercontent.com/mail-sig/AIorK4y3Y92yf7axpUNRhlS=
+84xXSWU9sc99ZNqmaHZon_ZGVuIod_sRJpukEaYHgWCpGB_eOQ9oqn8djCREQ" =
+width=3D"452" height=3D"226" style=3D"margin-right: =
+0px;"></div></div></div></div><div style=3D"font-weight:bold"><br =
+clear=3D"all"></div></font></div></div></div></div></div>
+
+------=_NextPart_000_002C_01DBE134.E17CC0C0--
