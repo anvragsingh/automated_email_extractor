@@ -15,7 +15,7 @@ This project automates the extraction of shipping quotations from `.eml` email f
 - `extract_to_sheet.ipynb` – Main Colab notebook
 - Sample `.eml` email files (not included due to privacy)
 - `README.md` – This file
-- 'logs_file.png' showing how the extraction looks like
+- 'log_file.png' showing how the extraction looks like
 
 ## 📄 How to Use
 1. Open the notebook in Google Colab
